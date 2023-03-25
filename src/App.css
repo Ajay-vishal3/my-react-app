@@ -1,0 +1,12 @@
+body {
+  background-color: #92c2de;
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
